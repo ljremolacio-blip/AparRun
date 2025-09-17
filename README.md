@@ -2,4 +2,4 @@
 AparRun is a community-based running group in Aparri, Cagayan that promotes better health and an active lifestyle through regular runs and fitness activities.
 
 ![image alt](https://github.com/ljremolacio-blip/AparRun/blob/26c218412a3f9496895c4f42d96c359ce646406a/aparrun.jpg)
-
+! [image alt](https://github.com/ljremolacio-blip/AparRun/blob/c3b79c3fc6501de35d4f1953abb24a07ae82cd44/decathlon.avif)
